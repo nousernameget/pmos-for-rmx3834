@@ -1,0 +1,23 @@
+# Reference: <https://postmarketos.org/deviceinfo>
+# Please use double quotes only. You can source this file in shell
+# scripts.
+
+deviceinfo_format_version="0"
+deviceinfo_name="realme Note 50"
+deviceinfo_manufacturer="realme"
+deviceinfo_codename="realme-rmx3834"
+deviceinfo_year="2023"
+deviceinfo_dtb="sprd/ums9230"
+deviceinfo_arch="aarch64"
+deviceinfo_drm="true"
+
+# Device related
+deviceinfo_chassis="handset"
+
+# Bootloader related
+deviceinfo_flash_method="fastboot"
+deviceinfo_kernel_cmdline=""
+deviceinfo_generate_bootimg="false"
+deviceinfo_flash_pagesize="4096"
+deviceinfo_bootimg_qcdt="false"
+deviceinfo_header_version="4"
