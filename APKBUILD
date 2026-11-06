@@ -1,5 +1,5 @@
 # Reference: <https://postmarketos.org/devicepkg>
-maintainer=""
+maintainer="babob1994"
 pkgname=device-realme-rmx3834
 pkgdesc="realme Note50 "
 pkgver=1
